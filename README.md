@@ -10,7 +10,7 @@ In addition to Easy-Email, I am also involved in developing a commercial version
 - Enhanced Editor: The editor has been improved to use an iframe and is compatible with various browsers.
 - Easy Customization: Provides easier customization options to tailor the user interface according to specific needs.
 
-If you're interested in leveraging the full potential of email capabilities for your business, don't hesitate to get in touch with me.
+If you're interested in leveraging the full potential of email capabilities for your business, don't hesitate to get in touch with me at 962491243@qq.com.
 
 ### Get in Touch
 If you have any questions, suggestions, or just want to say hello, feel free to reach out to me at 962491243@qq.com. 
