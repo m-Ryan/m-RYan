@@ -13,6 +13,10 @@ In addition to Easy-Email, I am also involved in developing a commercial version
 
 If you're interested in leveraging the full potential of email capabilities for your business, don't hesitate to get in touch with me at ch.mao@qq.com.
 
+---
+
+Due to too many inquiries, we currently only offer support for issues related to the commercial version of the email editor. For other questions, please leave a comment on GitHub Issues. Thanks.
+
 <a href="https://www.buymeacoffee.com/easyemail" target="_blank" rel="noreferrer nofollow">
    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
