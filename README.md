@@ -7,6 +7,7 @@ I am actively maintaining the Easy-Email project. Easy-Email is a powerful email
 #### Commercial Email Project
 In addition to Easy-Email, I am also involved in developing a commercial version of the email project. This enhanced version comes packed with even more powerful features to cater to advanced email requirements. 
 - Responsive Design: Supports displaying different user interfaces for desktop and mobile devices.
+- Email Studio: Creating custom blocks and configuration panels through drag-and-drop editing, without the need for coding.
 - Enhanced Editor: The editor has been improved to use an iframe and is compatible with various browsers.
 - Easy Customization: Provides easier customization options to tailor the user interface according to specific needs.
 & We will provide consulting services and email support.
