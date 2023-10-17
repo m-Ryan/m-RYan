@@ -4,7 +4,7 @@ Hi there! Welcome to my GitHub profile. My name is Ryan, and I am a full-stack d
 #### Easy-Email
 I am actively maintaining the Easy-Email project. Easy-Email is a powerful email library that simplifies the process of editing email templates. If you're looking for an easy-to-use and reliable solution for your email needs, I highly recommend checking it out.
 
-#### Commercial Email Project (500$ per year)
+#### Commercial Email Project ($500 per year)
 In addition to Easy-Email, I am also involved in developing a commercial version of the email project. This enhanced version comes packed with even more powerful features to cater to advanced email requirements. 
 - Responsive Design: Supports displaying different user interfaces for desktop and mobile devices.
 - Email Studio: Creating custom blocks and configuration panels through drag-and-drop editing, without the need for coding.
