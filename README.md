@@ -1,13 +1,13 @@
 Hi there! Welcome to my GitHub profile. My name is Ryan, and I am a full-stack developer with a passion for creating innovative solutions. Let me give you a brief overview of what I'm currently working on.
 
 ### Projects
-#### Easy-Email
+#### [Easy Email](https://www.easyemail.pro/?utm_source=profile)
 I am actively maintaining the Easy-Email project. Easy-Email is a powerful email library that simplifies the process of editing email templates. If you're looking for an easy-to-use and reliable solution for your email needs, I highly recommend checking it out.
 
 If you need consultation or customized services, check the prices [here](https://www.buymeacoffee.com/easyemail/commissions). 
 
 
-#### Commercial Email Project
+#### [Easy Email Pro](https://www.easyemail.pro/?utm_source=profile)
 In addition to Easy Email, I am also in the process of developing a commercial version of the email editor with enhanced functionality. This enhanced version comes packed with even more powerful features to cater to advanced email requirements. 
 - Responsive Design: Supports displaying different user interfaces for desktop and mobile devices.
 - Email Studio: Creating custom blocks and configuration panels through drag-and-drop editing, without the need for coding.
